@@ -1,6 +1,6 @@
 # vsCode-settings-json
 
-```
+```json
 {
   "workbench.iconTheme": "material-icon-theme",
   "[javascript]": {
