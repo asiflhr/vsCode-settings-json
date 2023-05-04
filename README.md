@@ -1,5 +1,6 @@
 # vsCode-settings-json
 
+```
 {
   "workbench.iconTheme": "material-icon-theme",
   "[javascript]": {
@@ -43,3 +44,5 @@
   "vs-code-prettier-eslint.prettierLast": true,
   "prettier.semi": false
 }
+
+```
