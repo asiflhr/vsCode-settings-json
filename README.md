@@ -6,6 +6,21 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsx]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
@@ -42,7 +57,47 @@
   "prettier.singleQuote": true,
   "prettier.jsxSingleQuote": true,
   "vs-code-prettier-eslint.prettierLast": true,
-  "prettier.semi": false
+  "prettier.semi": false,
+  "redhat.telemetry.enabled": true,
+  "yaml.customTags": [
+    "!And",
+    "!And sequence",
+    "!If",
+    "!If sequence",
+    "!Not",
+    "!Not sequence",
+    "!Equals",
+    "!Equals sequence",
+    "!Or",
+    "!Or sequence",
+    "!FindInMap",
+    "!FindInMap sequence",
+    "!Base64",
+    "!Join",
+    "!Join sequence",
+    "!Cidr",
+    "!Ref",
+    "!Sub",
+    "!Sub sequence",
+    "!GetAtt",
+    "!GetAZs",
+    "!ImportValue",
+    "!ImportValue sequence",
+    "!Select",
+    "!Select sequence",
+    "!Split",
+    "!Split sequence"
+  ],
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "workbench.editorAssociations": {
+    "*.db": "sqlite-viewer.option"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "emmet.preferences": {},
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
 }
+
 
 ```
