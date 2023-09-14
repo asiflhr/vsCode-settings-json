@@ -95,9 +95,11 @@
   "liveServer.settings.donotVerifyTags": true,
   "emmet.preferences": {},
   "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
   }
 }
+
 
 
 ```
