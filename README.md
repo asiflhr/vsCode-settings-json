@@ -1,6 +1,3 @@
-# vsCode-settings-json
-
-```json
 {
   "workbench.iconTheme": "material-icon-theme",
   "[javascript]": {
@@ -96,10 +93,10 @@
   "emmet.preferences": {},
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
-    "typescript": "typescriptreact"
-  }
+    "typescript": "typescriptreact",
+    "erb": "html",
+    "ruby": "html"
+  },
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true
 }
-
-
-
-```
